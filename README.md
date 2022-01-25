@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Raga Ranjini 🤍
 
-<!--
-**RagaRanjini/RagaRanjini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Computer Engineering Student 👩🏼‍🎓
 
-Here are some ideas to get you started:
+<<  Pursuing 3rd year - Computer science and Engineering , Bachelor of Engineering (2019 - 2023) in Saveetha Engineering College >>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<<  Working on an Internship with icrewsystems , a Global Web Development Company >>
+
+<<  Completed Internship on Python technology with Best Enlist , a developing software company in chennai >>
+
+
+
+
+
