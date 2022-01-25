@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Raga Ranjini 🤍</h1>
-<h3 align="center">A Computer Engineering student from India .</h3>
+<h3 align="center">A Computer Engineering student from India </h3>
 
 - 👩🏼‍🎓 Pursuing 3rd year Computer Science and Engineering , B.E in [Saveetha Engineering College.](http://www.saveetha.ac.in/)
 
