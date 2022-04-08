@@ -3,8 +3,6 @@
 
 - 👩🏼‍🎓 Pursuing 3rd year Computer Science and Engineering , B.E in [Saveetha Engineering College.](http://www.saveetha.ac.in/)
 
-- 🤝 I’m currently working on an internship with **icrewsystems , a global web development company .**
-
 - 👨‍💻 Completed an internship on Python technology with **Best Enlist , a developing software company .**
 
 - 📫 How to reach me **ragaranjini2001@gmail.com**
