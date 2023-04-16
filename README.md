@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Raga Ranjini 🤍</h1>
 <h3 align="center">A Computer Engineering student from India </h3>
 
-- 👩🏼‍🎓 Pursuing 3rd year Computer Science and Engineering , B.E in [Saveetha Engineering College.](http://www.saveetha.ac.in/)
+- 👩🏼‍🎓 Pursuing final year of Computer Science and Engineering , B.E in [Saveetha Engineering College.](http://www.saveetha.ac.in/)
 
-- 👨‍💻 Completed an internship on Python technology with **Best Enlist , a developing software company .**
+- 👨‍💻 An Intern in **Dedalus , Leading international industrial group in healthcare software development .**
 
 - 📫 How to reach me **ragaranjini2001@gmail.com**
 
