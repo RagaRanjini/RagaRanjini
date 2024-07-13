@@ -6,7 +6,8 @@
 
 - 📫 How to reach me **ragaranjini2001@gmail.com** or **rragaranjini@gmail.com**
 
-- Connect with me via Linked In (https://www.linkedin.com/in/raga-ranjini-r-8a5475200/)
+- ![image](https://github.com/user-attachments/assets/8ef71015-8f3f-40cf-9722-74fabb351855)
+ Connect with me via Linked In https://www.linkedin.com/in/raga-ranjini-r-8a5475200/
 
 
 <h3 align="left">Languages and Tools:</h3>
