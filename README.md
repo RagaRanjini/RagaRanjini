@@ -1,13 +1,12 @@
 <h1 align="center">Hi there👋, I'm Raga Ranjini 🤍</h1>
-<h3 align="center">A Computer Engineering student from India </h3>
 
-- 👩🏼‍🎓 Pursuing final year of Computer Science and Engineering , B.E in [Saveetha Engineering College.](http://www.saveetha.ac.in/)
+- 👩🏼‍🎓 Pursued Bachelor of Engineering in Computer Science and Engineering from [Saveetha Engineering College.](http://www.saveetha.ac.in/)
 
-- 👨‍💻 An Intern in **Dedalus , Leading international industrial group in healthcare software development .**
+- 👨‍💻 An Associate Professional Product Developer in **Dedalus , Leading international industrial group in healthcare software development .**
 
-- 📫 How to reach me **ragaranjini2001@gmail.com**
+- 📫 How to reach me **ragaranjini2001@gmail.com** or **rragaranjini@gmail.com**
 
-- ⚡ Fun fact **I'm good in pencil drawings .**
+- Connect with me via Linked In (https://www.linkedin.com/in/raga-ranjini-r-8a5475200/)
 
 
 <h3 align="left">Languages and Tools:</h3>
