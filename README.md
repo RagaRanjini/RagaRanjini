@@ -4,6 +4,6 @@
 
 - 👨‍💻 An Associate Professional Product Developer in **Dedalus , Leading international industrial group in healthcare software development .**
 
-- 📫 How to reach me **ragaranjini2001@gmail.com** or **rragaranjini@gmail.com**
+- 📫 How to reach me **ragaranjini2001@gmail.com**
 
 Here is my Linked In Profile -> https://www.linkedin.com/in/raga-ranjini-r-8a5475200/
