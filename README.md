@@ -6,4 +6,4 @@
 
 - 📫 How to reach me **ragaranjini2001@gmail.com**
 
-Here is my Linked In Profile -> https://www.linkedin.com/in/raga-ranjini-r-8a5475200/
+Here is my Linked In Profile -> https://www.linkedin.com/in/raga-ranjini-r-techie/
